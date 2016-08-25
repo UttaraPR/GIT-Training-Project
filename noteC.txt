@@ -1,6 +1,6 @@
 data added in GIT-Training-Project - saved, staged, committed
 
 
-issue fixed
+issue fixed in GTP
 
-issue fixed again
+issue fixed again in GIT
